@@ -28,11 +28,19 @@ The WG liaises with other Standards Development Organizations such as ITU-T, IEE
 
 ## Milestones
 
-| Date                      | Milestone | Description  | Intended Track |
-|---------------------------|-----------| -------------|:--------------:|
-|                           |           |              |                |
-|                           |           |              |                |
-|                           |           |              |                |
-|                           |           |              |                |
-|                           |           |              |                |
-|                           |           |              |                |
+| Date | Milestone                                                                                                               | Description                                 |  Intended Track |
+| ---- | ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- | :-------------: |
+|      | Submit Selecting and Applying Model(s) for Benchmarking to the IESG                                                     | draft-ietf-bmwg-network-tester-cfg          | Standards Track |
+|      | Submit Benchmarking Methodology for Segment Routing to the IESG                                                         | draft-ietf-bmwg-sr-bench-meth               |  Informational  |
+|      | Submit Considerations for Benchmarking Network Virtualization Platforms to the IESG                                     | draft-ietf-bmwg-containerized-infra         |  Informational  |
+|      | Submit Characterization and Benchmarking Methodology for Power in Networking Devices to the IESG                        | draft-ietf-bmwg-powerbench                  | Standards Track |
+|      | Submit Benchmarking Methodology for Intra-domain and Inter-domain Source Address Validation to the IESG                 | draft-ietf-bmwg-savnet-sav-benchmarking     |  Informational  |
+|      | Submit Alternate Marking Deployment Framework to the IESG                                                               | draft-ietf-ippm-alt-mark-deployment         |  Informational  |
+|      | Submit A YANG Data Model for the Alternate-Marking Method to the IESG                                                   | draft-ietf-ippm-alt-mark-yang               | Standards Track |
+|      | Submit An Experimental Connectivity Monitoring Metric for IPPM to the IESG                                              | draft-ietf-ippm-connectivity-monitoring     |   Experimental  |
+|      | Submit IPv6 Performance and Diagnostic Metrics Version 2 (PDMv2) Destination Option to the IESG                         | draft-ietf-ippm-encrypted-pdmv2             | Standards Track |
+|      | Submit On-Path Telemetry for Active Performance Measurements to the IESG                                                | draft-ietf-ippm-on-path-active-measurements |  Informational  |
+|      | Submit On-Path Telemetry YANG Data Model to the IESG                                                                    | draft-ietf-ippm-on-path-telemetry-yang      | Standards Track |
+|      | Submit Responsiveness under Working Conditions to the IESG                                                              | draft-ietf-ippm-responsiveness              | Standards Track |
+|      | Submit Update of the Simple Two-way Active Measurement Protocol Class-of-Service Extension - ECN to the IESG            | draft-ietf-ippm-stamp-cos-ecn               | Standards Track |
+|      | Submit Simple Two-Way Active Measurement Protocol (STAMP) Extensions for Reflecting STAMP Packet IP Headers to the IESG | draft-ietf-ippm-stamp-ext-hdr               | Standards Track |
