@@ -41,3 +41,4 @@ The WG liaises with other Standards Development Organizations such as ITU-T, IEE
 | May 2027 | Submit Benchmarking Methodology for Intra-domain and Inter-domain Source Address Validation to the IESG                 | draft-ietf-bmwg-savnet-sav-benchmarking     | Informational   |
 | Jun 2027 | Submit IPv6 Performance and Diagnostic Metrics Version 2 (PDMv2) Destination Option to the IESG                         | draft-ietf-ippm-encrypted-pdmv2             | Standards Track |
 | Jul 2027 | Submit Responsiveness under Working Conditions to the IESG                                                              | draft-ietf-ippm-responsiveness              | Standards Track |
+| Aug 2027 | Submit An Experimental Connectivity Monitoring Metric for IPPM to the IESG                                              | draft-ietf-ippm-connectivity-monitoring     | Experimental    |
