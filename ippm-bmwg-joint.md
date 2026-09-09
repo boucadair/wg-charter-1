@@ -28,11 +28,16 @@ The WG liaises with other Standards Development Organizations such as ITU-T, IEE
 
 ## Milestones
 
-| Date                      | Milestone | Description  | Intended Track |
-|---------------------------|-----------| -------------|:--------------:|
-|                           |           |              |                |
-|                           |           |              |                |
-|                           |           |              |                |
-|                           |           |              |                |
-|                           |           |              |                |
-|                           |           |              |                |
+| Date     | Milestone                                                                                                               | Associated documents                        | Intended Track  |
+|----------|-------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|:---------------:|
+| Oct 2026 | Submit Simple Two-Way Active Measurement Protocol (STAMP) Extensions for Reflecting STAMP Packet IP Headers to the IESG | draft-ietf-ippm-stamp-ext-hdr               | Standards Track |
+| Nov 2026 | Submit Alternate Marking Deployment Framework to the IESG                                                               | draft-ietf-ippm-alt-mark-deployment         | Informational   |
+| Nov 2026 | Submit A YANG Data Model for the Alternate-Marking Method to the IESG                                                   | draft-ietf-ippm-alt-mark-yang               | Standards Track |
+| Dec 2026 | Submit Considerations for Benchmarking Network Performance in Containerized Infrastructures to the IESG                 | draft-ietf-bmwg-containerized-inf           | Informational   |
+| Jan 2027 | Submit On-Path Telemetry YANG Data Model to the IESG to the IESG                                                        | draft-ietf-ippm-on-path-telemetry-yang      | Standards Track |
+| Feb 2027 | Submit Characterization and Benchmarking Methodology for Power in Networking Devices to the IESG                        | draft-ietf-bmwg-powerbench                  | Standards Track |
+| Mar 2027 | Submit Update of the Simple Two-way Active Measurement Protocol Class-of-Service Extension - ECN to the IESG            | draft-ietf-ippm-stamp-cos-ecn               | Standards Track |
+| Apr 2027 | Submit On-Path Telemetry for Active Performance Measurements to the IESG                                                | draft-ietf-ippm-on-path-active-measurements | Informational   |
+| May 2027 | Submit Benchmarking Methodology for Intra-domain and Inter-domain Source Address Validation to the IESG                 | draft-ietf-bmwg-savnet-sav-benchmarking     | Informational   |
+| Jun 2027 | Submit IPv6 Performance and Diagnostic Metrics Version 2 (PDMv2) Destination Option to the IESG                         | draft-ietf-ippm-encrypted-pdmv2             | Standards Track |
+| Jul 2027 | Submit Responsiveness under Working Conditions to the IESG                                                              | draft-ietf-ippm-responsiveness              | Standards Track |
