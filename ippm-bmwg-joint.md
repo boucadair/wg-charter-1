@@ -22,7 +22,7 @@ In general, the WG requires an implementation for Standards Track documents. In 
 
 The WG will follow transport-related BCPs (mainly, BCP 133 on Specifying New Congestion Control Algorithms, BCP 145 on UDP Usage Guidelines, and BCP 208 on Network Transport Circuit Breakers) and will seek advice from the WIT area as needed.
 
-The WG coordinates performance measurement-related work within the IETF. It specifically coordinates with other WGs such as MPLS, INTAREA, 6MAN, and SPRING, where data plane encapsulations are specified. Also, the WG will seek feedback on topics related to other OPS WGs such as V6OPS or SRV6OPS. The WG closely collaborates with the Performance Metrics Directorate per the guidance in BCP 170.
+The WG coordinates performance measurement-related work within the IETF. It specifically coordinates with other WGs such as MPLS, INTAREA, 6MAN, and SPRING, where data plane encapsulations are specified. Also, the WG will seek feedback on topics related to other OPS WGs such as V6OPS or SRV6OPS. The WG will involve the security area for advice and guidance on relevant issues (e.g., integrity protection). The WG closely collaborates with the Performance Metrics Directorate per the guidance in BCP 170.
 
 The WG liaises with other Standards Development Organizations such as ITU-T, IEEE, 3GPP, BBF and communicates with the operations community through organizations such as NANOG, RIPE, and APRICOT.
 
