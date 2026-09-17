@@ -18,18 +18,18 @@ The WG is responsible for the maintenance of RFCs published by the concluded BMW
 
 In general, the WG requires an implementation for Standards Track documents. In some cases (e.g., security fixes or simple extensions) a proof of implementation might not be needed. Whenever such an exception applies, the exception justification must be included in the specification document or its shepherd's write-up.
 
-## Relationship With Existing WGs, Coordination, and Liaisons
+## Relationship With Existing WGs and Coordination
 
 The WG will follow transport-related BCPs (mainly, BCP 133 on Specifying New Congestion Control Algorithms, BCP 145 on UDP Usage Guidelines, and BCP 208 on Network Transport Circuit Breakers) and will seek advice from the WIT area as needed.
 
 The WG coordinates generic benchmarking and performance measurement efforts within the IETF and, therefore, it specifically communicates with other WGs such as MPLS, INTAREA, 6MAN, and SPRING, where related data plane encapsulations are specified. Also, the WG will seek feedback on topics related to other OPS WGs such as V6OPS or SRV6OPS. The WG will involve the security area for advice and guidance on relevant issues (e.g., integrity protection). The WG closely collaborates with the Performance Metrics Directorate per the guidance in BCP 170.
 
-The WG liaises with other Standards Development Organizations such as ITU-T, IEEE, 3GPP, BBF and communicates with the operations community through organizations such as NANOG, RIPE, and APRICOT.
 
 ## Milestones
 
 | Date     | Milestone                                                                                                               | Associated documents                        | Intended Track        |
 |----------|-------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|:---------------------:|
+|Oct 2026 | Send LSes ITU-T, IEEE, 3GPP, and BBF about BPM creation |N/A|N/A|
 | Oct 2026 | Submit Simple Two-Way Active Measurement Protocol (STAMP) Extensions for Reflecting STAMP Packet IP Headers to the IESG | draft-ietf-ippm-stamp-ext-hdr               | Standards Track       |
 | Nov 2026 | Submit Alternate Marking Deployment Framework to the IESG                                                               | draft-ietf-ippm-alt-mark-deployment         | Informational         |
 | Nov 2026 | Submit A YANG Data Model for the Alternate-Marking Method to the IESG                                                   | draft-ietf-ippm-alt-mark-yang               | Standards Track       |
