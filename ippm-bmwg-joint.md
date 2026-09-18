@@ -14,7 +14,7 @@ The WG is responsible for the development and maintenance of Standards Track or 
 
 The work scope is limited to protocols, methodologies, and metrics that are applicable to the IP and MPLS data plane and upper-layer protocols. Work involving Layer 2 protocols is in scope when it applies IETF-defined benchmarking and performance measurement mechanisms to Layer 2 technologies. The BPM WG does not specify encapsulations required for measurements over non-IP and non-MPLS layers.
 
-The WG is responsible for the maintenance of RFCs published by the concluded BMWG and IPPM WGs (including updating those published as Proposed Standard to Internet Standard and Informational to BCP) and the maintenance of BCP 170.
+The WG is the successor of BMWG and IPPM WGs. As such, the BPM WG is responsible for the maintenance of RFCs published by the concluded BMWG and IPPM WGs (including updating those published as Proposed Standard to Internet Standard and Informational to BCP) and the maintenance of BCP 170.
 
 In general, the WG requires an implementation for Standards Track documents. In some cases (e.g., security fixes or simple extensions) a proof of implementation might not be needed. Whenever such an exception applies, the exception justification must be included in the specification document or its shepherd's write-up.
 
